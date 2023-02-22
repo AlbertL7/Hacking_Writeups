@@ -4,7 +4,7 @@ Writeups to include any tryhackme, hackthebox, proving grounds, war games, and a
 
 I want to contribute to the community and hopefully help out anyone who comes accross this repository. 
 
-NOTE: I create all of my writeups in my OneNote and then migrate them over to github in markdown format.
+.
 
 
 
