@@ -80,7 +80,7 @@ Checking back on John to see if we were able to discover any passwords.
 
 ![Pasted image 20230222220735](https://user-images.githubusercontent.com/71300144/220952355-036e209b-af23-495c-b6ba-9316e9c377c0.png)
 
-Came up with nothing so now I am going to try the credentials I found on the zip file.
+Came up with nothing so now I am going to try the credentials I found on the .mdb file.
 ***
 ### Note I also found an online source for viewing Microsoft Access .mdb files which was a lot easier. The website is https://www.mdbopener.com/
 
